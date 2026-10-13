@@ -13,4 +13,4 @@ class Solution:
         return maxp
     
 a = Solution()
-print(a.maxProfit([3,2,8,9]))
+print(a.maxProfit([7,1,5,3,6,4]))
